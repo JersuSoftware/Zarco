@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Zarco.png</file>
+        <file>Mapa/Mapa Centro.png</file>
+        <file>Mapa/Sul/SUL.png</file>
+        <file>Mapa/Centro/CENTRO.png</file>
+        <file>Mapa/Pirabeiraba/PIRABEIRABA.png</file>
+        <file>Mapa/Norte/NORTE.png</file>
+        <file>Mapa/Norte/NORTE - SUL.png</file>
+        <file>Mapa/Norte/NORTE-PIRABEIRABA.png</file>
+        <file>Mapa/Vila Nova/Vila Nova.png</file>
+        <file>Mapa/Tupy/Tupy.png</file>
+        <file>Mapa/Nova Brasilia/Nova Brasilia.png</file>
+        <file>Mapa/Itaum/Itaum.png</file>
+        <file>Mapa/Iririu/Iririu.png</file>
+        <file>Mapa/Guanabara/Guanabara.png</file>
+        <file>Mapa/Centro/centro-vilanova.png</file>
+        <file>Mapa/Centro/centro-tupy.png</file>
+        <file>Mapa/Centro/centro-sul.png</file>
+        <file>Mapa/Centro/centro-novabrasilia.png</file>
+        <file>Mapa/Centro/Centro-norte.png</file>
+        <file>Mapa/Centro/centro-itaum.png</file>
+        <file>Mapa/Centro/centro-iriru.png</file>
+        <file>Mapa/Centro/centro-guanabara.png</file>
+        <file>Mapa/Centro/centro-campus.png</file>
+        <file>Mapa/Campus/Campus.png</file>
+        <file>Mapa/Norte/VilaNova-Norte.png</file>
+        <file>Mapa/Norte/Iririu-Norte.png</file>
+        <file>Mapa/Norte/Centro-norte.png</file>
+        <file>Mapa/Tupy/Iririu-Tupy.png</file>
+        <file>Mapa/Tupy/Guanabara-Tupy.png</file>
+        <file>Mapa/Sul/Itaum-Sul.png</file>
+        <file>Mapa/Campus/Sul-Campus.png</file>
+        <file>Mapa/Campus/Norte-Campus.png</file>
+        <file>Mapa/Campus/Itaum-Campus.png</file>
+        <file>Mapa/Campus/Iririu-Campus.png</file>
+        <file>Mapa/Campus/Centro-Campus.png</file>
+        <file>Mapa/Pirabeiraba/Pirabeiraba-Vilanova.png</file>
+    </qresource>
+</RCC>

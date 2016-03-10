@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>erick.png</file>
+        <file>mapa.png</file>
+        <file>map.html</file>
+        <file>Zarco.png</file>
+    </qresource>
+</RCC>
